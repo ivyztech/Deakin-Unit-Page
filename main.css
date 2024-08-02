@@ -29,7 +29,6 @@ th, td {
 
 tr:nth-child(odd) {background-color: #f2f2f2;}
 
-<<<<<<< HEAD
 th, td {
   padding: 8px;
   text-align: left;
@@ -39,6 +38,4 @@ th, td {
 
 tr:nth-child(odd) {background-color: #f2f2f2;}
 
-=======
->>>>>>> 6a7a6ae (new changes)
 
